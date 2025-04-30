@@ -1,0 +1,14 @@
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/bin/Debug/net9.0/FirstProjectCSharp
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/bin/Debug/net9.0/FirstProjectCSharp.deps.json
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/bin/Debug/net9.0/FirstProjectCSharp.runtimeconfig.json
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/bin/Debug/net9.0/FirstProjectCSharp.dll
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/bin/Debug/net9.0/FirstProjectCSharp.pdb
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.AssemblyInfoInputs.cache
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.AssemblyInfo.cs
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.csproj.CoreCompileInputs.cache
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.dll
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/refint/FirstProjectCSharp.dll
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.pdb
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.genruntimeconfig.cache
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/ref/FirstProjectCSharp.dll
