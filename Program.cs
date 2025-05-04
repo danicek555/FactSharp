@@ -18,6 +18,14 @@ class Program //specialni nazev tridy - po spusteni programu se spusti funkce Ma
             Console.Clear();
             Main().GetAwaiter().GetResult();
             //GetAwaiter().GetResult() znamena ocekavani a vrateni vysledku
+            return;
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Diky za použití programu!");
+            Console.ResetColor();
+            return;
         }
     }
 
@@ -30,10 +38,19 @@ class Program //specialni nazev tridy - po spusteni programu se spusti funkce Ma
         Console.WriteLine("Vítej v generátoru faktů");
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Vtípek na úvod:");
-        
         HttpClient klient = new HttpClient();
-
-        string vtip = await klient.GetStringAsync("https://geek-jokes.sameerkumar.website/api?format=text");
+        string vtip = "";
+        try 
+        {
+            vtip = await klient.GetStringAsync("https://geek-jokes.sameerkumar.website/api?format=text");    
+        }
+        catch (Exception ex)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Nejsi pripojen k internetu! ");
+            RestartProgram();
+            return;
+        }
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.WriteLine(vtip);
       

@@ -12,3 +12,4 @@
 /Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.pdb
 /Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.genruntimeconfig.cache
 /Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/ref/FirstProjectCSharp.dll
+/Users/danielmitka/Desktop/Programování/Csharp/FirstProjectCSharp/obj/Debug/net9.0/FirstProjectCSharp.sourcelink.json
